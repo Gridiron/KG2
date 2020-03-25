@@ -1,0 +1,16 @@
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\bin\Debug\KG2.exe.config
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\bin\Debug\KG2.exe
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\bin\Debug\KG2.pdb
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\bin\Debug\ImageFormats.dll
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.csprojAssemblyReference.cache
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\MainWindow.g.cs
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\App.g.cs
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2_MarkupCompile.cache
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2_MarkupCompile.lref
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\MainWindow.baml
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.g.resources
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.cache
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.csproj.CopyComplete
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.exe
+D:\Studying\3 курс\6 семестр\KG\KG3\KG2\KG2\obj\Debug\KG2.pdb
